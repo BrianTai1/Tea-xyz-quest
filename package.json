@@ -1,0 +1,12 @@
+{
+  "name": "@nguyenkieuvi41/tea-xyz-quest",
+  "version": "3.0.1",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@nguyenkieuvi41",
+  "repository": "https://github.com/BrianTai1/Tea-xyz-quest",
+  "license": "ISC",
+  "dependencies": {
+    "@huytran/tea-xyz-quest": "^3.0.1"
+  }
+}
